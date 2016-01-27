@@ -5,7 +5,6 @@ Create a JavaScript class that, when instantiated, draws a playable tic-tac-toe 
 - Create a class using a `function` definition and a `prototype` object.
 - Use [jQuery](https://jquery.com/) to enable & manage interactions in the `DOM`.
 - Use one markup file, one stylesheet, and one JavaScript file for your solution.
-- 
 
 ## Rules & Specs
 - The game is played on a 3x3 grid.
