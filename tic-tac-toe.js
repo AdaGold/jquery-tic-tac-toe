@@ -1,0 +1,7 @@
+function TicTacToe() {
+
+}
+
+TicTacToe.prototype = {
+  
+}
